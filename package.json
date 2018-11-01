@@ -1,0 +1,15 @@
+{
+  "name": "coinapi-node",
+  "version": "1.0.0",
+  "description": "A node wrapper for the CoinAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brad Risse",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "ws": "^6.0.0"
+  }
+}
